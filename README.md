@@ -13,3 +13,11 @@ The web application is built on Java. It allows us to create finite state machin
 ### Note ###
 * The program currently cannot run Dfsa by subset construction.
 * (FSA 1-4) works fine.
+
+### Contributor: ###
+
+* [Mushy1693](https://bitbucket.org/mushy1693/)
+
+### Languages: ###
+
+* Java
